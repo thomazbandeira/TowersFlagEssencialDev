@@ -1,16 +1,45 @@
 # towersflagessencialdev README
 
-## Working with Markdown
+## Description of MOTIVATION
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Hi Developer, i hope you are well!
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+This pack was launched with the aim of ending the hunt for packs that I usually need to use VS Code.
 
-## For more information
+So I took the initiative to include some really cool packs:
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+ - Node Security Project: as the name suggests, it will help you with vulnerability problems.
+ - View-readme: view of your readme for the repository.
+ - Security Intellisense: suggested security items from Microsoft.
+ - Django: Beautiful syntax and scoped snippets for perfectionists with deadlines
+ - CSS Modules
+ - Markdownlint
+ - Java Decompiler
+ - Python Extension Pack
+ - Theme Dracula Official
+ - Java Debug
+ - Git Pack
+ - Debugger Firefox
+ - Copilot Pack
+ - Test Explorer UI
+ - Rest Client
+ - Azure Pack
+ - python Indent
+ - OpenAPI-lint
+ - code Project Scanner (OWASP)
+ - Docker
+ - WSL
+ - GO Lang
+ - Color Highlight
+ - AutoDocString
+ - DotTEST, JTest
+ - Material Icon Theme
+ - Live Server
+ - SLint
+ - Snyk
+ - SonarLint
+ - React
+ - among others extensions.
+
 
 **Enjoy!**
