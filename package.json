@@ -13,12 +13,15 @@
 "Python Pack",
 "Dracula Theme",
 "Java Pack",
-"Git Packs",
+"Git Pack",
 "Debugger pack",
 "copilot Pack",
 "Azure Pack",
-"SLint"],
-  "version": "1.0.0",
+"SLint",
+"Go Lang",
+"mermaid",
+"XML"],
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.87.0"
   },
@@ -58,7 +61,7 @@
     "ms-azuretools.azure-dev", 
     "ms-azuretools.vscode-apimanagement", 
     "ms-azuretools.vscode-azureappservice", 
-    "ms-azuretools.vscode-azurecontainerapps", 
+    "ms-azuretools.vscode-azurecontainerapps",
     "ms-azuretools.vscode-azurefunctions", 
     "ms-azuretools.vscode-azureresourcegroups", 
     "ms-azuretools.vscode-azureserverlesspack", 
@@ -78,7 +81,7 @@
     "ms-vscode.vs-keybindings", 
     "ms-vscode.vscode-node-azure-pack", 
     "naumovs.color-highlight", 
-    "njpwerner.autodocstring", 
+    "njpwerner.autodocstring",  
     "parasoft.vscode-dottest", 
     "parasoft.vscode-jtest", 
     "pkief.material-icon-theme", 
@@ -97,6 +100,20 @@
     "vscjava.vscode-java-pack", 
     "vscjava.vscode-java-test", 
     "vscjava.vscode-maven", 
-    "wholroyd.jinja"
+    "wholroyd.jinja", 
+    "vmware.vscode-spring-boot", 
+    "nopeslide.vscode-drawio-plugin-mermaid",
+    "msjsdiag.vscode-react-native", 
+    "ms-dotnettools.csdevkit", 
+    "ms-dotnettools.csharp", 
+    "ms-dotnettools.vscode-dotnet-runtime", 
+    "golang.go", 
+    "dotjoshjohnson.xml",
+    "dart-code.dart-code", 
+    "dart-code.flutter", 
+    "bierner.markdown-mermaid", 
+    "bpruitt-goddard.mermaid-markdown-syntax-highlighting", 
+    "zhang-renyang.vscode-react"
+    
   ]
 }
