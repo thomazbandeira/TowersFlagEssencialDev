@@ -21,7 +21,7 @@
 "Go Lang",
 "mermaid",
 "XML"],
-  "version": "1.1.1",
+  "version": "1.2.0",
   "engines": {
     "vscode": "^1.87.0"
   },
@@ -113,7 +113,16 @@
     "dart-code.flutter", 
     "bierner.markdown-mermaid", 
     "bpruitt-goddard.mermaid-markdown-syntax-highlighting", 
-    "zhang-renyang.vscode-react"
-    
+    "zhang-renyang.vscode-react",
+    "rangav.vscode-thunder-client",
+    "oderwat.indent-rainbow",
+    "ms-vscode.vscode-typescript-next",
+    "mikestead.dotenv",
+    "mgmcdermott.vscode-language-babel",
+    "esbenp.prettier-vscode",
+    "EditorConfig.EditorConfig",
+    "dbaeumer.vscode-eslint",
+    "christian-kohler.npm-intellisense",
+    "aaron-bond.better-comments"
   ]
 }
