@@ -16,14 +16,13 @@ So I took the initiative to include some really cool packs:
  - Markdownlint
  - Java Decompiler
  - Python Extension Pack
- - Theme Dracula Official
  - Java Debug
  - Git Pack
  - Debugger Firefox
  - Copilot Pack
  - Test Explorer UI
  - Rest Client
- - Azure Pack
+ - Azure extensions
  - python Indent
  - OpenAPI-lint
  - code Project Scanner (OWASP)
